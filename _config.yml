@@ -1,3 +1,5 @@
+baseurl: /dummy-website
+
 timezone: Australia/Brisbane
 
 defaults:
